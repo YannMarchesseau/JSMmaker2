@@ -260,8 +260,11 @@ https://github.com/YannMarchesseau/JSMmaker2/releases
 
 Developed by Yann Marchesseau  
 WalkingBucket Studio
+Website: https://walkingbucket.fr
+LinkedIn : https://www.linkedin.com/in/yann-marchesseau-1b44b6119/
 
-Special thanks to Appitel for authorizing the continuation and public release of this project.
+# Special thanks to Appitel for authorizing the continuation and public release of this project.
+<img width="300" height="90" alt="LogoAppitel" src="https://github.com/user-attachments/assets/613097e0-2505-4af6-b28b-68cbefc48794" />
 
 Appitel is a Paris-based IT services company specialized in Apple device management and Jamf deployments.
 

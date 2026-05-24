@@ -97,8 +97,7 @@ The Customization menu contains all visual and functional Setup Manager options.
 - Multi-language interface text
 
 ### Additional Features
-![Uploading NetworkCheck.png…]()
-
+<img width="1282" height="133" alt="NetworkCheck" src="https://github.com/user-attachments/assets/9a03ab0f-465f-40c6-b88d-9b7e4f1d95d3" />
 - Network verification
 - Multi-language Help section
 - QR Code help redirection

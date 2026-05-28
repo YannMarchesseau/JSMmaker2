@@ -62,6 +62,20 @@ Features include:
   - Departments
 <img width="508" height="48" alt="retrieval" src="https://github.com/user-attachments/assets/e8f4c921-4a49-493a-a0cf-37d54d8f6448" />
 
+## API Connection
+
+To connect using the API, enable the “Use API Client” option.
+Otherwise, JSMmaker2 will expect a traditional username and password login.
+<img width="531" height="380" alt="api" src="https://github.com/user-attachments/assets/7ced72dd-8cb4-4c30-ba6f-20f309b953dc" />
+
+
+## API roles
+
+The API Client must have at least the following roles/privileges:
+- Read Computers
+- Read Policies
+- Read Departments
+- Read Buildings
 ---
 
 ## Customization

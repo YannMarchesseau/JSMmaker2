@@ -62,6 +62,8 @@ Features include:
   - Departments
 <img width="508" height="48" alt="retrieval" src="https://github.com/user-attachments/assets/e8f4c921-4a49-493a-a0cf-37d54d8f6448" />
 
+---
+
 ## API Connection
 
 To connect using the API, enable the “Use API Client” option.

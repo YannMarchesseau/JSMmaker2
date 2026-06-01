@@ -78,6 +78,8 @@ The API Client must have at least the following roles/privileges:
 - Read Policies
 - Read Departments
 - Read Buildings
+
+- Read Categories with Jamf Exterder (Thanks to Larrystegall for the tips)
 ---
 
 ## Customization

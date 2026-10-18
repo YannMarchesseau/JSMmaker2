@@ -48,7 +48,7 @@ JSMmaker2 2.4.9 covers every key documented for **Setup Manager 1.4.7** (Configu
 # Menus Overview
 
 ## Connection
-<img width="1123" height="514" alt="Login" src="https://github.com/user-attachments/assets/e6960367-b13b-4245-b51e-2407331da8fe" />
+<img width="1339" height="955" alt="Capture d’écran 2026-10-18 à 16 09 44" src="https://github.com/user-attachments/assets/f70a41f8-28ef-4c54-9dee-6897b5cee3fb" />
 
 The Connection menu allows you to connect JSMmaker2 to a Jamf Pro instance.
 - Login/password authentication
@@ -104,24 +104,24 @@ All visual and functional Setup Manager options.
 - Dedicated Light/Dark assets for each of them
 
 ### Messages
-<img width="1282" height="133" alt="NetworkCheck" src="https://github.com/user-attachments/assets/ff15f807-0b45-4db4-a204-d187e5a10e90" />
-
 - Starting Message (1.4.3+)
 - Finished Message (1.4+)
 - Title and message with substitution tokens (`%model%`, `%serial%`…)
+  
 ### Setup Manager options
-
 - Hide action labels (`hideActionLabels`)
 - Network quality check on/off (`networkQualityCheck`)
 - Action output logging: always / error / never
 - Estimated download size (`totalDownloadBytes`)
 - Override serial number for screenshots (`overrideSerialNumber`)
 - Hide the DEBUG label when DEBUG is enabled (`hideDebugLabel`)
+<img width="1295" height="223" alt="Capture d’écran 2026-10-18 à 16 13 36" src="https://github.com/user-attachments/assets/fa2081fd-3183-462c-8a09-d70d08e6efc7" />
+<img width="1295" height="223" alt="Capture d’écran 2026-10-18 à 16 13 36" src="https://github.com/user-attachments/assets/52e57332-19db-43a3-9ab6-c941bf4eb097" />
+<img width="1296" height="445" alt="Capture d’écran 2026-10-18 à 16 12 21" src="https://github.com/user-attachments/assets/68e4a6e0-9789-4179-a70a-c6ca78c53ff8" />
 
 ### Additional Features
 
 - Network verification with per-host, localizable labels
-<img width="1282" height="133" alt="NetworkCheck" src="https://github.com/user-attachments/assets/9a03ab0f-465f-40c6-b88d-9b7e4f1d95d3" />
 - Multi-language Help section (title, message and URL are all localizable) with QR code
 <img width="1287" height="354" alt="Help" src="https://github.com/user-attachments/assets/ff574812-553a-4885-826e-0114aa5b6f2f" />
 - Webhooks for the Started and Finished events: classic JSON, Slack or Microsoft Teams, with the optional `DEBUG` key (full URLs in the Setup Manager log)
@@ -131,6 +131,7 @@ All visual and functional Setup Manager options.
 ## User Entry
 
 ### Computer Name
+<img width="1295" height="223" alt="Capture d’écran 2026-10-18 à 16 13 36" src="https://github.com/user-attachments/assets/42154833-eaca-487a-9100-a26a59299161" />
 
 Three modes, independent from the rest of User Entry:
 
@@ -160,7 +161,6 @@ Build the Setup Manager workflow visually.
 Actions can be reordered with arrows or drag and drop and customized individually. A label is mandatory for every action except Recon.
 
 ### Tile Color
-
 - Global or per action, with an optional dark variant
 - `##automatic`, `##background`, `##clear`, named system colors or hex values
 - A per-action color always overrides the global one
@@ -229,6 +229,8 @@ A missing background image is reported as a warning, not an error.
 
 - **Plist Live Preview** panel with syntax highlighting, updated 350 ms after your last keystroke so typing stays fluid
 - **Final Preview** window: Setup Manager rendering with a toolbar to switch language, simulate light or dark appearance, and close; honours `hideActionLabels`, tile colors and `##clear`
+  <img width="1000" height="741" alt="Capture d’écran 2026-10-18 à 16 50 48" src="https://github.com/user-attachments/assets/d68816ff-b4f3-4173-959f-a0600120f5af" />
+
 
 ---
 
